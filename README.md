@@ -1,4 +1,4 @@
-# Intro
+# Intro test
 The purpose of this project is to build an Amazon.com like ecommerce website using the front end skills that we should possess by now. You may be suprised that you have already learned all the skills necessary to do this.
 # Prerequisite
 * Know how to loop arrays and use array functions like map.
